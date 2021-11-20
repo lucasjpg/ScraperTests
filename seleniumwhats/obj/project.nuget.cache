@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tuz7/fMX6szp9NfN5Cm9YdOSb+XE+tgtGJYtHgfe2+OXEPT0/g3jXFTX9bY+RVgE3wjDkcX1pFx+gLN3QS2cQ==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Roko/seleniumwhats/seleniumwhats.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/lucas/.nuget/packages/selenium.support/4.0.1/selenium.support.4.0.1.nupkg.sha512",
+    "/home/lucas/.nuget/packages/selenium.webdriver/4.0.1/selenium.webdriver.4.0.1.nupkg.sha512",
+    "/home/lucas/.nuget/packages/selenium.webdriver.chromedriver/96.0.4664.4500/selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}
